@@ -1,4 +1,70 @@
 /* section2 styles */
+
+.main-logo {
+    width: 500px;
+    height: 90px;
+}
+.navigation {
+    position: fixed;
+    z-index: 1;
+    background-color: white;
+    width: 100%;
+}
+.logo-size {
+    height: 75px;
+}
+
+.container-block {
+    display: inline-flex;
+}
+
+.navigation {
+    display: flex;
+    justify-content: space-around;
+    height: 100px;
+}
+
+.size {
+    font-size: 20px;
+}
+
+
+/* section1 */
+.section1 {
+    padding-top: 100px;
+}
+.div-one {
+	max-width: 400px;
+	font-family: 'Poppins', sans-serif;
+}
+.ddiv-one2 {
+	max-width: 300px;
+}
+button {
+	background-image: linear-gradient(to right, #1A129F, #5046E3);
+}
+
+.d1 {
+    margin-left: 300px;
+}
+.image1 {
+    padding-left: 100px;
+}
+
+/* section2 */
+.div-two d2 {
+	max-width: 400px;
+	font-family: 'Poppins', sans-serif;
+}
+.d2 {
+        margin-left: 200px;
+}
+.d2-h5 {
+	max-width: 400px;
+}
+.d3 {
+    margin-left: 100px;
+}
 .card-size {
     max-width: 367px;
     width: 100%;
@@ -27,4 +93,24 @@
 
 .card-text {
     height: 130px;
+}
+
+.container {
+    font-family: 'Poppins', sans-serif;
+    font-size: 100px;
+}
+
+.last-section {
+    width: 500;
+}
+
+.card-size {
+	max-width: 350px;
+	height: 410px;
+}
+input {
+	max-width: 600px;
+}
+.section-3 {
+    margin-top: 50px;
 }
